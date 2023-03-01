@@ -13,6 +13,7 @@
 <li>Complexidade Caso Médio: O(n²)</li>
 <li>Complexidade Melhor Caso: O(n)</li>
 <p>O melhor caso o seu tempo é quase inalterável, permanecendo constante, ou seja, um caso ideal.</p>
+<img src="https://github.com/lucasrm1981/BubbleSort-JAVA/blob/main/DesenpenhoBubbleSort.PNG">
 
 
 
